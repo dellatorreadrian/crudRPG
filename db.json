@@ -1,0 +1,61 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Matthew",
+      "rpgSystem": "DnD 5e"
+    },
+    {
+      "id": 2,
+      "name": "Jim Jamil",
+      "rpgSystem": "Pathfinder"
+    },
+    {
+      "id": 3,
+      "name": "Leonel",
+      "rpgSystem": "Call of Cthulhu"
+    },
+    {
+      "id": "4",
+      "name": "Yure",
+      "rpgSystem": "DnD 5e"
+    },
+    {
+      "id": "5",
+      "name": "Sergio Chapelin",
+      "rpgSystem": "The Witcher RPG"
+    }
+  ],
+  "dice": [
+    {
+      "id": 1,
+      "name": "d20",
+      "faces": 20
+    },
+    {
+      "id": 2,
+      "name": "d12",
+      "faces": 12
+    },
+    {
+      "id": 3,
+      "name": "d10",
+      "faces": 10
+    },
+    {
+      "id": 4,
+      "name": "d8",
+      "faces": 8
+    },
+    {
+      "id": 5,
+      "name": "d6",
+      "faces": 6
+    },
+    {
+      "id": 6,
+      "name": "d4",
+      "faces": 4
+    }
+  ]
+}
