@@ -1,4 +1,4 @@
-# my-app
+# crudRPG
 
 ## Project setup
 ```
